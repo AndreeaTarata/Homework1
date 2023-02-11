@@ -1,9 +1,17 @@
 """
-1. O variabila este o portiune din memorie in care se pot pune date/valori
-2. String
-Int
-Float
-Bool
+1. În cadrul unui comentariu, explică cu cuvintele tale ce este o variabilă.
+
+O variabila este o portiune din memorie in care se pot pune date/valori
+
+2. Declară și initializează câte o variabilă din fiecare din următoarele tipuri de
+variabilă :
+
+- string
+- int
+- float
+- bool
+
+Observație: Valorile vor fi alese de tine după preferințe. String
 """
 
 nume: str = 'Andreea'
